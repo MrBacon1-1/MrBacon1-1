@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbacon1-1&show_icons=true&theme=dark&locale=en" alt="mrbacon1-1" /></p>
 
-<h3 align="center">Support:</h3>
+<p align="center">~ Support Me ~</p>
 <p><a href="https://ko-fi.com/mrbacon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mrbacon" /></a></p><br><br>
 
