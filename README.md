@@ -23,7 +23,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbacon1-1&layout=compact&theme=dark)](https://github.com/MrBacon1-1)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsdeluxe&theme=dark" alt="mrbacon1-1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbacon1-1&theme=dark" alt="mrbacon1-1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbacon1-1&show_icons=true&theme=dark&locale=en" alt="mrbacon1-1" /></p>
 
