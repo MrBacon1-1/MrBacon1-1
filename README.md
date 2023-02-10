@@ -5,13 +5,14 @@
   <b>~ Profile Visits ~</b><br><br>
   <img src="https://profile-counter.glitch.me/MrBacon/count.svg" />
 </p>
-
 <p align="center">
-   <b>~ About Me ~</b><br><br>
+  <b>~ About Me ~</b><br><br>
+</p>
+
    - 🌱 I’m currently learning **Java**
 
    - 📫 How to reach me **MrBacon#7458**
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
