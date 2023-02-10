@@ -9,6 +9,8 @@
   <b>~ About Me ~</b><br><br>
 </p>
 
+   - 👋 Hi, I'm currently working on a **Simple Java Discord Bot**
+
    - 🌱 I’m currently learning **Java**
 
    - 📫 How to reach me **MrBacon#7458**
