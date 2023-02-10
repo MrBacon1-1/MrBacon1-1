@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm MrBacon</h1>
+<h3 align="center">I am a Cyber Security & Computer Science Student & I Develop Various Things Using Java & Python</h3>
 
-<!--
-**MrBacon1-1/MrBacon1-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>~ Profile Visits ~</b><br><br>
+  <img src="https://profile-counter.glitch.me/MrBacon/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **MrBacon#7458**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/cf9mxTgDFa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cf9mxTgDFa" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/mrbacon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mrbacon" /></a></p><br><br>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbaconcode&show_icons=true&theme=dark&locale=en&layout=compact" alt="mrbaconcode" /></p>
+
