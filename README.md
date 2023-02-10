@@ -15,8 +15,9 @@
 
    - 📫 How to reach me **MrBacon#7458**
 
-
-<p align="center">~ Languages I Know/Use ~ </p>
+<p align="center">
+  <b>~ Languages I Know / Use ~</b><br><br>
+</p>  
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="center">
@@ -29,6 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbacon1-1&show_icons=true&theme=dark&locale=en" alt="mrbacon1-1" /></p>
 
-<p align="center">~ Support Me ~</p>
+<p align="center">
+  <b>~ Support Me ~</b><br><br>
+</p>
 <p><a href="https://ko-fi.com/mrbacon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mrbacon" /></a></p><br><br>
 
