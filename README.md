@@ -33,4 +33,3 @@
 <p align="center">
   <b>~ Support Me ~</b><br><br>
 </p>
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
