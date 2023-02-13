@@ -10,6 +10,8 @@
 </p>
 
    - 👋 Hi, I'm currently working on a **Simple Java Discord Bot**
+   
+   - ❓ I use **IntelliJ & Maven**
 
    - 🌱 I’m currently learning **Java**
 
