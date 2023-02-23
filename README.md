@@ -8,6 +8,7 @@
 <p align="center">
   <b>~ About Me ~</b><br><br>
 </p>
+
    - 👋 Hi, I'm currently working on a **Simple Java Discord Bot**
    
    - ❓ I use **IntelliJ & Maven**
@@ -15,6 +16,7 @@
    - 🌱 I’m currently learning **Java**
 
    - 📫 How to reach me **MrBacon#7458**
+
 <p align="center">
   <b>~ Languages I Know / Use ~</b><br><br>
 </p>  
