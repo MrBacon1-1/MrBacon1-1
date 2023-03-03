@@ -8,8 +8,6 @@
 <p align="center">
   <b>~ About Me ~</b><br><br>
 </p>
-
-   - 👋 Hi, I'm currently working on a **Simple Java Discord Bot**
    
    - ❓ I use **IntelliJ & Maven**
 
