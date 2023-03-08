@@ -9,7 +9,7 @@
   <b>~ About Me ~</b><br><br>
 </p>
    
-   - ❓ I use **IntelliJ & Maven**
+   - ❓ I use **IntelliJ & Visual Studio Code**
 
    - 🌱 I’m currently learning **Java**
 
