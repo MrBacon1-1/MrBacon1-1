@@ -11,7 +11,7 @@
    
    - ❓ I use **IntelliJ & Visual Studio Code**
 
-   - 🌱 I’m currently workin on a **Password Manager**
+   - 🌱 I’m currently working on **Bacon Manager**
 
    - 📫 How to reach me **MrBacon#7458**
 
