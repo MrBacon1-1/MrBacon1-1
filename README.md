@@ -9,9 +9,9 @@
   <b>~ About Me ~</b><br><br>
 </p>
    
-   - ❓ I use **IntelliJ & Visual Studio Code**
+   - ❓ I use **IntelliJ, Visual Studio Code & Visual Studio**
 
-   - 🌱 I’m currently working on **Bacon Manager**
+   - 🌱 I’m currently working on **EncryptX**
 
    - 📫 How to reach me **MrBacon#7458**
 
