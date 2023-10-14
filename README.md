@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrBacon</h1>
-<h3 align="center">I am a Cyber Security & Computer Science Student & I Develop Various Things Using Java & Python</h3>
+<h3 align="center">I am a Computer Science Student & I Develop Various Things Using Python</h3>
 
 <p align="center">
   <b>~ Profile Visits ~</b><br><br>
@@ -9,7 +9,7 @@
   <b>~ About Me ~</b><br><br>
 </p>
    
-   - ❓ I use **IntelliJ, Visual Studio Code & Visual Studio**
+   - ❓ I use **Visual Studio Code & Visual Studio**
 
    - 🌱 I’m currently working on **EncryptX**
 
