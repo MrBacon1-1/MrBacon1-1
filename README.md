@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrBacon</h1>
-<h3 align="center">I am a Computer Science Student & I Develop Various Things Using Python</h3>
+<h3 align="center">I am a Computer Science Student & I Develop Various Things Using Python, Java & Batch Script</h3>
 
 <p align="center">
   <b>~ Profile Visits ~</b><br><br>
