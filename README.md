@@ -9,11 +9,11 @@
   <b>~ About Me ~</b><br><br>
 </p>
    
-   - ❓ I use **Visual Studio Code & Visual Studio**
+   - ❓ I use **Visual Studio Code & Visual Studio**.
 
-   - 🌱 I’m currently working on **EncryptX**
+   - 🌱 I’m currently working on **EncryptX**.
 
-   - 📫 How to reach me **MrBacon#7458**
+   - 📫 How to reach me **.mrbacon.** on discord.
 
 <p align="center">
   <b>~ Languages I Know / Use ~</b><br><br>
